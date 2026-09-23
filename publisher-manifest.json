@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "47c8f75930334c0bca932691",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-7ab82f05dcb1767f52dfe023",
+  "title": "小牛",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7ab82f05dcb1767f52dfe023",
+      "a": "小牛",
+      "b": "稳定全球clash加速器",
+      "entity": "小牛",
+      "brand": "小牛",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "535526510b1a3009fefffcdcec692d232cb0e157c5f1cac8b963df617c847fe7",
+      "content": {
+        "primary_entity": "小牛",
+        "keyword1": "小牛",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：手机装 Clash for Android 或 Stash，Windows 装 Clash Verge，macOS 装 ClashX Pro，路由器可配 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量、设备数与线路，再按常用客户端导入订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付 ¥15 起，年付可享更优价格。基础版每月 100GB 流量、3 台设备，适合轻量浏览；旗舰版每月 300GB 流量、5 台设备，配有 IPLC 专线与流媒体解锁；团队版每月 1000GB 流量、20 台设备，支持定制路由与专属客户经理。",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台。家庭共用选旗舰版较合适，小型团队选团队版。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，适合网页与社交；常看高清视频选旗舰版 300GB；团队或多设备下载选团队版 1000GB。",
+          "AI_FAQ_ANSWER_3": "可以，三档均支持年付，年付价格低于按月支付，长期使用更划算。",
+          "AI_FAQ_ANSWER_4": "按设备选客户端：Android 用 Clash for Android，iOS 用 Stash，Windows 用 Clash Verge，macOS 用 ClashX Pro。",
+          "AI_FAQ_ANSWER_5": "登录后复制订阅链接，在客户端订阅管理里粘贴导入，更新后选择节点连接即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小牛加速器支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "套餐可以按年付吗？",
+          "AI_FAQ_QUESTION_4": "常见设备该装哪个客户端？",
+          "AI_FAQ_QUESTION_5": "订阅链接怎么导入客户端？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "小牛提供三档套餐，按流量、设备数和线路等级区分。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月，年付 ¥150，含 100GB 流量与 3 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月，年付 ¥350，含 300GB 流量、5 台设备与 IPLC 专线。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月，年付 ¥850，含 1000GB 流量与 20 台设备。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡主力",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "选定套餐后，结合设备与客户端完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "小牛面向跨境访问需求，提供 Clash 订阅与多档套餐，覆盖基础浏览到团队协作场景。",
+          "AI_HERO_SUBTITLE": "小牛加速器，多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "支持 Clash 多端客户端",
+          "AI_PLANS_INTRO": "基础版适合轻量用户，旗舰版兼顾流量与专线，团队版面向多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐支持的设备数量，避免超出同时在线限制。",
+          "AI_STEP_TEXT_3": "在对应客户端导入订阅链接，更新节点后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "小牛加速器多档套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mest5a943a9u6a.com",
+    "host": "xn--mest5a943a9u6a.com"
+  },
+  "file_hashes": {
+    "index.html": "ce9c015cb406e57cd1d23f83c2345dede46798be85049cc9950d9c5d3140a98c",
+    "sitemap.xml": "746b7d5b9a7d3ef513867bc52658ce971dc2a542e51910a241d663b3468f4f73",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eecc6c1c25b0840cdc9491df246e13092edfd375f94b76ea22815904ae9e8392",
+    "robots.txt": "73637974ac852f41efda72ce8116a37c29838158b038c8401cba950e17e66c1f",
+    "7d5c06fd7a8be61888b3d7611b7467a6.txt": "0dbee109465124ee74d8efacd356800995e44b58195fbc0069fb39d12b737043"
+  },
+  "revision": "33fca2a1cc8df57e2922c0275190707219a2981c3e961b63edee898bb859fd77"
+}
